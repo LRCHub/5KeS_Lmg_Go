@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "STRAND",
+  "base_artist": "JJJ",
+  "createdAt": "2025-12-01T07:31:11.477105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Do the Strand",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/01_Do_the_Strand_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tres Dominé (feat. Strand of Oaks)",
+      "artist": "Hammock feat. Strand of Oaks",
+      "has_synced": true,
+      "path": "select/02_Tres_Dominé_(feat._Strand_of_Oaks)_Hammock_feat._Strand_of_Oaks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Red Strand",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/03_Red_Strand_Nik_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let's All Go Down the Strand",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/04_Let's_All_Go_Down_the_Strand_Blur.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Alone Again (Live at The Strand)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/05_Alone_Again_(Live_at_The_Strand)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "From the Beginning (Live at The Strand)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/06_From_the_Beginning_(Live_at_The_Strand)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Will Remember (Live at The Strand)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/07_I_Will_Remember_(Live_at_The_Strand)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It's Not Love (Live at The Strand)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/08_It's_Not_Love_(Live_at_The_Strand)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just Got Lucky (Live at The Strand)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/09_Just_Got_Lucky_(Live_at_The_Strand)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nothing Left to Say (Live at The Strand)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/10_Nothing_Left_to_Say_(Live_at_The_Strand)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nowhere Man (Live at The Strand)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/11_Nowhere_Man_(Live_at_The_Strand)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Maze (Live at The Strand)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/12_The_Maze_(Live_at_The_Strand)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tooth and Nail (Live at The Strand)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/13_Tooth_and_Nail_(Live_at_The_Strand)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Unchain the Night (Live at The Strand)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/14_Unchain_the_Night_(Live_at_The_Strand)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Open Your Heart (The Strand Remix)",
+      "artist": "The Human League",
+      "has_synced": false,
+      "path": "select/15_Open_Your_Heart_(The_Strand_Remix)_The_Human_League.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Strand",
+      "artist": "Fates Warning",
+      "has_synced": false,
+      "path": "select/16_The_Strand_Fates_Warning.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Am Strand",
+      "artist": "Farin Urlaub",
+      "has_synced": false,
+      "path": "select/17_Am_Strand_Farin_Urlaub.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Am Strand",
+      "artist": "Farin Urlaub Racing Team",
+      "has_synced": true,
+      "path": "select/18_Am_Strand_Farin_Urlaub_Racing_Team.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stranded",
+      "artist": "L⇔R",
+      "has_synced": false,
+      "path": "select/pl_01_Stranded_L⇔R.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Stranded",
+      "artist": "L⇔R",
+      "has_synced": false,
+      "path": "select/pl_02_Stranded_L⇔R.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "STRAND (feat. KEIJU)",
+      "artist": "L⇔R",
+      "has_synced": false,
+      "path": "select/pl_03_STRAND_(feat._KEIJU)_L⇔R.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Stranded on Death Row",
+      "artist": "L⇔R",
+      "has_synced": false,
+      "path": "select/pl_04_Stranded_on_Death_Row_L⇔R.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Stranded Words (Interlude)",
+      "artist": "L⇔R",
+      "has_synced": false,
+      "path": "select/pl_05_Stranded_Words_(Interlude)_L⇔R.txt"
+    }
+  ]
+}
